@@ -1,12 +1,14 @@
 # Enquete-European-Social-Survey-Perception-de-l-Immigration
 
 ## Introduction 
+L’Enquête sociale européenne (European Social Survey) est une enquête internationale pour mesurer les attitudes et croyances des populations vis-à-vis de la situation politique et sociale à travers l’Europe. Le module sur les questions relatives à l’immigration et l’asile a recueilli des données en 2002 et a été mis à jour en 2014. Les questions figurant dans cette enquête évaluent les connaissances et attitudes relatives à l’immigration, aux types de migrants et au racisme. 
 
 je tape du texte 
 
 ![texte caché derrière l'image - Rory Fitzgerald, directeur Enquête ESS](https://seriss.eu/wp-content/uploads/2015/09/Rory-Fitzgerald-web.jpg)
 
-### 1. Les critiques 
+
+### 1. Limites des données 
 
 #### 1.1 Critiques concernant l’ESS
 Les critiques ont fait valoir que l'enquête sociale européenne (ESS) est un moyen inefficace et coûteux de recueillir des données sur les attitudes et les croyances des citoyens européens. Ils soulignent le coût élevé de l'enquête (plus de 4,2 millions d'euros pour 16 pays) , ainsi que son faible taux de réponse (environ 30 %). En outre, ils affirment que l'ESS repose trop sur des données autodéclarées, qui peuvent être peu fiables.
