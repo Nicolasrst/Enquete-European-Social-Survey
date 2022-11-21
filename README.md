@@ -160,7 +160,13 @@ Pour éviter ces écueils, il est conseillé aux utilisateurs de l'ESS de consul
 
 ![Schéma de la méthodologie de collecte de données de l’ESS](https://www.europeansocialsurvey.org/img/ess-flowchart.png)
 
-## 7. Les ontologies sous-jacentes au développement de l'ESS et de son module rotatif de 2014 sur la perception de l'immigration 
+## 7. L'ontologie sous-jacente au développement de l'ESS et de son module rotatif de 2014 sur la perception de l'immigration 
+
+La méthode de récolte des données réunies dans EUROPEAN SOCIAL SURVEY est par formulaire, ainsi les sondés sont soumis à une série de questions identiques portant sur différents modules. A l’image d’un QCM dans ESS il y a des réponses préétablies qui permettent dans la tradition des méthodes quantitatives d’établir des variables catégorielles rendant plus simple l’interprétation de tendances sur un grand échantillon grâce à l’uniformisation des réponses.
+
+ Néanmoins, même si les méthodes quantitatives vendent leur impartialité ; les données sont inévitablement biaisées. D’une part, la volonté des chercheurs se retransmets dans la formulation des questions voire dans le choix de réponses. De plus, le cas précis de la perception de l’immigration c’est un sujet particulièrement sensible à faire transparaître l’ontologie sous-jacente des chercheurs, étant un sujet particulièrement clivant et qui fait régulièrement débat en Europe. Pourtant par soucis d’intégrité académique un jeu de données tel que European Social Survey a le devoir de proposer un modèle représentant de la manière la plus neutre possible la perception de l’immigration par les européens.
+ 
+En l’espèce ce module du jeu de données évalue chez les sondés leur tolérance des migrants, leur appréciation de politique d’intégration et du multiculturalisme. L’objectif avoué étant de mesurer grâce à différent indicateurs est d’évaluer en Europe le sentiment de menace symbolique que représente l’immigration, la tolérance envers les minorités, enfin en accord avec les débats d’actualité : European Social Survey veut grâce à ces indicateurs pouvoir évaluer si les sondés sont en accord avec les politiques publiques liés à l’immigration. 
 
 
 ## 8. Quelques limites et critiques à adresser à notre jeu de données 
@@ -185,6 +191,6 @@ Une autre limite soulevée par le chercheur est le fait que le questionnaire de 
 
 ## 9. Bilan 
 
-...
+Comme vous avez désormais pu le comprendre l'ESS est une enquête rigoureuse 
 
 
