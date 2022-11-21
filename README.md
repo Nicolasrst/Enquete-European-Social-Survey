@@ -225,12 +225,15 @@ Menold, N., Schaible, J., Stathopoulou, T. And Zuell, C. (2018) Development of a
 * Entretiens 
 
 Interview Nicolas Sauger 
+
 Professeur des universités à Sciences Po, en science politique. Directeur du Centre de Données Socio-Politiques (CDSP) depuis 2017. Spécialiste de méthodes quantitatives. Participation à de nombreuses enquêtes : Enquête sociale européenne, le Comparative study of electoral systems. Publication dans de nombreuses revues internationales (BJPS, Electoral Studies, EJPR, JEPP, Party politics, PRQ, SCW,...)
 
 Interview Marco Giugni
+
 Professeur au Département de sciences politiques et relations internationales et directeur de l’Institut d’études de la citoyenneté (InCite) de l'Université de Genève. Éditeur européen de la revue Mobilization: An International Journal. Spécialiste dans la recherche sur le comportement politique, les mouvements sociaux et la participation politique.
 
 Interview Maxime Parodi 
+
 Sociologue. Spécialiste de la justice sociale et des inégalités notamment liées à l’immigration. 
 
 
