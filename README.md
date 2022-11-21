@@ -20,7 +20,7 @@ Les créateurs originels de la base de données sont Sir Roger Jowell et Max Kaa
 Sir Roger Jowel
 ![Sir Roger Jowell - co-fondateur de l'ESS](https://blogs.city.ac.uk/sociology/files/2018/05/Roger_Jowell_Lecture-190jpmu-e1600876922901.jpg)
 
-Max Kaase
+Max Kaase 
 ![Max Kaase - co-fondateur de l'ESS]!![image](https://user-images.githubusercontent.com/116189845/203127332-9140e096-58ac-4248-a67e-d932f15ff197.png)
 
 La France a participé dès le début du processus de conception de l'Enquête Sociale Européenne. Elle a aidé à porter l’exigence de coopération intra-européenne et l’excellence méthodologique. La branche française de l’ESS est coordonnée par le Centre de données socio-politiques de Sciences Po depuis 10 ans, qui est chargé de collecter les données pour le pays. 
