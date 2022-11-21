@@ -17,8 +17,11 @@ L’Enquête Sociale Européenne, (European Social Survey ESS), est une enquête
 
 Les créateurs originels de la base de données sont Sir Roger Jowell et Max Kaase (photos ci-après) qui ont commencé à développer en 1995 une enquête sociale européenne comparative à la Fondation européenne de la science (European Science Foundation). Des comités ont travaillé sous la direction des deux hommes pour établir un Blueprint qui s’est soldé par la demande de financement à la commission européenne. Finalement, l'enquête sociale européenne a été établie en 2001 au National Center for Social Research à Londres. L’université de Londres la City est le siège de l’ESS depuis 2003.
 
+Sir Roger Jowel
 ![Sir Roger Jowell - co-fondateur de l'ESS](https://blogs.city.ac.uk/sociology/files/2018/05/Roger_Jowell_Lecture-190jpmu-e1600876922901.jpg)
-![Max Kaase - co-fondateur de l'ESS](https://www.corim.qc.ca/uploads/corim_event_speakers/pictures/thumb_m_kaase.jpg)
+
+Max Kaase
+![Max Kaase - co-fondateur de l'ESS]!(https://user-images.githubusercontent.com/116189845/203127087-1585409d-a08f-48fe-8db9-bdc0c8beb890.png)
 
 La France a participé dès le début du processus de conception de l'Enquête Sociale Européenne. Elle a aidé à porter l’exigence de coopération intra-européenne et l’excellence méthodologique. La branche française de l’ESS est coordonnée par le Centre de données socio-politiques de Sciences Po depuis 10 ans, qui est chargé de collecter les données pour le pays. 
 
