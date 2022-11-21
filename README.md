@@ -198,4 +198,58 @@ Une autre limite soulevée par le chercheur est le fait que le questionnaire de 
 
 Comme vous avez désormais pu le comprendre l'ESS est une enquête à la conception rigoureuse. Cette volonté de rigueur a, dès le départ, irrigué les travaux des chercheurs afin de permettre la captation des tendances de long terme dans la société européenne sur des sujets très divers. La procéudre a été développée de telle sorte qu'elle puisse à la fois résister à l'usure du temps, tout en restant suffisament souple pour pouvoir, à la marge, s'adapater aux nouvelles tendances ou aux particularités locales. Comme nous l'ont confirmé Nicolas Sauger et Maxime Parodi lors des entretiens que nous avons eu la chance de conduire avec eux, cette rigueur a pour conséquence la production de données de qualité exploitées par de nombreux utilisateurs : du chercheur à l'téudiant en passant par le journaliste, majoritairement en Europe mais aussi ailleurs dans le monde. Malgré des limites liées notamment à la potentielle ambiguitée des questions posées, à la crainte de création de faux par les organismes collecteurs de données ainsi qu'au haut niveau de généralisation des questions, les données sont dans l'ensemble pour leur qualité et leur comparabilité transantionale, obsession des créateurs. Finalement, l'on a presque le sentiment que face à ces procédures complètes mais complexes, nous manquons d'expetise technique pour appréhender tous les aspects et les limites de son fonctionnement. 
 
+## 10. Bibliographie
+
+Articles académiques 
+
+Kolsrud, K., & Skjak, K. K. (2005). Harmonising background variables in the European Social Survey. Hoffmeyer-Zlotnik, & J. Harkness (Eds.), Methodological aspects in cross-national research (pp. 163-182). Mannheim: GESIS-ZUMA. 
+https://nbn-resolving.org/urn:nbn:de:0168-ssoar-49157-2
+
+Fitzgerald, R., Jowell, R. (2011). Measurement equivalence in comparative surveys: the European Social Survey (ESS) – from design to implementation and beyond, Centre for Comparative Social Surveys, Working Paper Series, Paper no. 03 
+
+Fitzgerald, R. (2015). Striving for quality, comparability and transparency in cross-national social survey measurement: illustrations from the European Social Survey (ESS). (Unpublished Doctoral thesis, City University London), 
+https://openaccess.city.ac.uk/id/eprint/14487/
+
+Fitzgerald, R. (2015). Sailing in unchartered waters: structuring and documenting cross-national questionnaire design. (GESIS Papers, 2015/05). Köln: GESIS - Leibniz-Institut für Sozialwissenschaften. 
+https://doi.org/10.21241/ ssoar.4621 
+
+Dorer, B. (2022). Advance Translation—The Remedy to Improve Translatability of Source Questionnaires? Results of a Think-Aloud Study. Field Methods, 0(0). https://doi.org/10.1177/1525822X211072343
+
+Loosveldt, G., Katrijn Denies, K., Vandenplas, C. (...). Quality matrix for the European Social Survey, round 7. Centre for Sociological Research, KU Leuven, https://www.europeansocialsurvey.org/docs/round7/methods/ESS7_quality_matrix.pdf
+
+Saris, W.E., Revilla, M. (2016). Correction for Measurement Errors in Survey Research: Necessary and Possible. Soc Indic Res 127, 1005–1020. 
+https://doi.org/10.1007/s11205-015-1002-x 
+
+Menold, N., Schaible, J., Stathopoulou, T. And Zuell, C. (2018) Development of a methodology to measure media context in the European Social Survey, London: publisher- European Social Survey ERIC. https://www.europeansocialsurvey.org/docs/methodology/measuring_media_context_in_ESS.pdf
+
+Rapports 
+
+Chapter 1 European Social Survey Core Questionnaire Development Overview, https://www.europeansocialsurvey.org/docs/methodology/core_ess_questionnaire/ESS_core_questionnaire_overview.pdf
+
+Brochure. Consortium pour l'infrastructure de recherche de l'enquête sociale européenne https://www.europeansocialsurvey.org/docs/about/ESS_Prospectus_French.pdf
+
+Sites web 
+
+https://www.cnis.fr/enquetes/enquete-sociale-europeenne-european-social-survey-ess/
+
+https://forscenter.ch/projects/european-social-survey/?lang=fr
+
+https://events.ceu.edu/2022-06-13/new-paths-address-imminent-crisis-survey-research-hybrid-solution
+
+https://www.europeansocialsurvey.org/docs/round7/questionnaire/ESS7_heath_proposal.pdf
+
+https://www.researchgate.net/publication/281270888_The_European_Social_Survey_Contents_Design_and_Research_Potential
+
+https://www.europeansocialsurvey.org/about/history.html 
+
+https://www.cnis.fr/enquetes/enquete-sociale-europeenne-european-social-survey-ess/ 
+
+https://www.vie-publique.fr/eclairage/20179-la-politique-dimmigration-dans-le-contexte-europeen 
+
+https://www.migrationdataportal.org/fr/themes/opinion-publique-sur-la-migration
+
+https://www.europeansocialsurvey.org/docs/findings/ESS7_toplines_issue_7_immigration.pdf
+
+https://www.europeansocialsurvey.org/docs/round7/questionnaire/ESS7_heath_proposal.pdf 
+
 
