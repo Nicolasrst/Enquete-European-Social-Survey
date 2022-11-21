@@ -1,5 +1,8 @@
 # Enquete-European-Social-Survey
 
+### Enquête finale : La vie sociale des données 
+#### Nicolas Rousset, Louise Favennec, Nina Cardot, Mohamed Checkoua, Djibril Sagot 
+
 ## Introduction 
 Dans cette enquête pour le cours de "Vie sociale des données", nous avons fait le choix de nous pencher sur "L’Enquête sociale européenne" (European Social Survey) ayant entendu parler à maintes reprises de ses qualités. Nous avons vouluen avoir le coeur net et nous sommes donc penchés sur les différents élements de cette base de données pour tâcher de décrypter son fonctionnement, à la fois complet et complexe mais aussi pour tâcher de soulerver des critiques quant à son fonctionnement. Ce rendu prend donc la forme d'une enquête structurée en 8 parties : son histoire, son organisation interne, la conception de ses questionnaires, les modalités de traduction et de recueil des données, ses usages et son ontologie sous-jacente, plus particulièrement dans le cadre du module rotatif de 2014 consacré à l'immigration et enfin ses limites. 
 
@@ -14,9 +17,7 @@ L’Enquête Sociale Européenne, (European Social Survey ESS), est une enquête
 
 Les créateurs originels de la base de données sont Sir Roger Jowell et Max Kaase (photos ci-après) qui ont commencé à développer en 1995 une enquête sociale européenne comparative à la Fondation européenne de la science (European Science Foundation). Des comités ont travaillé sous la direction des deux hommes pour établir un Blueprint qui s’est soldé par la demande de financement à la commission européenne. Finalement, l'enquête sociale européenne a été établie en 2001 au National Center for Social Research à Londres. L’université de Londres la City est le siège de l’ESS depuis 2003.
 
-Sir Roger Jowell 
 ![Sir Roger Jowell - co-fondateur de l'ESS](https://blogs.city.ac.uk/sociology/files/2018/05/Roger_Jowell_Lecture-190jpmu-e1600876922901.jpg)
-Max Kaase
 ![Max Kaase - co-fondateur de l'ESS](https://www.corim.qc.ca/uploads/corim_event_speakers/pictures/thumb_m_kaase.jpg)
 
 La France a participé dès le début du processus de conception de l'Enquête Sociale Européenne. Elle a aidé à porter l’exigence de coopération intra-européenne et l’excellence méthodologique. La branche française de l’ESS est coordonnée par le Centre de données socio-politiques de Sciences Po depuis 10 ans, qui est chargé de collecter les données pour le pays. 
@@ -187,12 +188,14 @@ Finalement Nicolas Sauger souligne que l’ESS fait face à la limite de la thé
 
 ### 8.2. Critiques concernant l'enquête et les questionnaires 
 Une question d'enquête peut être critiquée de plusieurs façons. Les critiques les plus courantes sont que la question est biaisée, tendancieuse ou ambiguë.Il y a partialité lorsque la question est formulée de manière à favoriser une réponse plutôt qu'une autre. Par exemple, une question qui demande "Soutenez-vous la nouvelle politique fiscale du gouvernement ?" est biaisée car elle suppose que la personne interrogée soutient cette politique. Les questions suggestives sont celles qui suggèrent une réponse particulière. 
+
 Les questions ambiguës sont celles qui peuvent être interprétées de plusieurs façons. Par exemple, une question qui demande "Quelle est votre opinion sur la nouvelle politique fiscale du gouvernement ?" est ambiguë parce qu'il n'est pas clair sur quoi on demande à la personne interrogée de se prononcer - la politique elle-même, la façon dont le gouvernement gère la politique, ou quelque chose d'autre.
+
 La manière de poser une question peut donc représenter une limite pour une enquête. D’après Nicolas Sauger tout questionnaire est aiguillé par des choix scientifiques et le questionnaire de l’ESS n’y fait pas exception. Les limites ne sont pas à chercher dans les questions qui sont posées au cours de ce questionnaire long de 60min mais bien dans les questions qu’on ne pose pas. Ainsi le directeur du CDSP rappelle que des questions apparaissent périodiquement en fonction des sujets sociétaux prépondérants dans l’espace public. Par exemple on pouvait trouver des questions sur le terrorisme à partir des années 2000 avant de les voir disparaitre en 2018. Ce sont donc bien les scientifiques concevant le questionnaire qui peuvent aiguiller le questionnaire en choisissant le périmètre de questionnement.
 Une autre limite soulevée par le chercheur est le fait que le questionnaire de l’ESS est un questionnaire comparatif. La limite de cette force est de trouver des questions pertinentes pour l’ensemble des pays. En conséquence les questions restent d’un très haut niveau de généralité. Ce niveau de généralité entraine des réponses de moins bonne qualité. En effet l’adaptation nécessaire pour que la question puisse se poser dans chaque pays mène vers une perdition de la précision du questionnaire entrainant donc des réponses de moins bonne qualité.
 
 ## 9. Bilan 
 
-Comme vous avez désormais pu le comprendre l'ESS est une enquête rigoureuse 
+Comme vous avez désormais pu le comprendre l'ESS est une enquête à la conception rigoureuse. Cette volonté de rigueur a, dès le départ, irrigué les travaux des chercheurs afin de permettre la captation des tendances de long terme dans la société européenne sur des sujets très divers. La procéudre a été développée de telle sorte qu'elle puisse à la fois résister à l'usure du temps, tout en restant suffisament souple pour pouvoir, à la marge, s'adapater aux nouvelles tendances ou aux particularités locales. Comme nous l'ont confirmé Nicolas Sauger et Maxime Parodi lors des entretiens que nous avons eu la chance de conduire avec eux, cette rigueur a pour conséquence la production de données de qualité exploitées par de nombreux utilisateurs : du chercheur à l'téudiant en passant par le journaliste, majoritairement en Europe mais aussi ailleurs dans le monde. Malgré des limites liées notamment à la potentielle ambiguitée des questions posées, à la crainte de création de faux par les organismes collecteurs de données ainsi qu'au haut niveau de généralisation des questions, les données sont dans l'ensemble pour leur qualité et leur comparabilité transantionale, obsession des créateurs. Finalement, l'on a presque le sentiment que face à ces procédures complètes mais complexes, nous manquons d'expetise technique pour appréhender tous les aspects et les limites de son fonctionnement. 
 
 
