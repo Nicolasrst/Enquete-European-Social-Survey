@@ -13,7 +13,7 @@ Dans cette enquête pour le cours de "Vie sociale des données", nous avons fait
 
 L’Enquête Sociale Européenne, (European Social Survey ESS), est une enquête scientifique internationale menée dans de nombreux pays tous les deux ans depuis 2001. Cette base de données a été créée à la base pour pallier un manque d’enquêtes transnationales rigoureuses sur le plan méthodologique. L’Enquête Sociale Européenne se veut servir de sources fiables de connaissances sur les changements dans le temps en Europe.
 
-#### Création de la base de données
+* Création de la base de données
 
 Les créateurs originels de la base de données sont Sir Roger Jowell et Max Kaase (photos ci-après) qui ont commencé à développer en 1995 une enquête sociale européenne comparative à la Fondation européenne de la science (European Science Foundation). Des comités ont travaillé sous la direction des deux hommes pour établir un Blueprint qui s’est soldé par la demande de financement à la commission européenne. Finalement, l'enquête sociale européenne a été établie en 2001 au National Center for Social Research à Londres. L’université de Londres la City est le siège de l’ESS depuis 2003.
 
@@ -22,7 +22,7 @@ Les créateurs originels de la base de données sont Sir Roger Jowell et Max Kaa
 
 La France a participé dès le début du processus de conception de l'Enquête Sociale Européenne. Elle a aidé à porter l’exigence de coopération intra-européenne et l’excellence méthodologique. La branche française de l’ESS est coordonnée par le Centre de données socio-politiques de Sciences Po depuis 10 ans, qui est chargé de collecter les données pour le pays. 
 
-#### Focus sur le module immigration 
+* Focus sur le module immigration 
 
 Depuis la création de l’ESS, deux modules portant sur l’immigration ont eu lieu : en 2002/3 et en 2014. Comme l’explique Rory Fitzgerald, Directeur de l’ESS, les deux modules permettent de faire des comparaisons directes entre 2002 et 2014 en utilisant les mêmes mesures, l’édition de 2014 s’appuyant sur celle de 2002. Les données ont été largement utilisées par les chercheurs, prouvant la qualité méthodologique de l'édition de 2002. De plus, l’immigration est traitée dans chacune des enquêtes, permettant l’accès régulier à de nouvelles données. 
 
@@ -32,7 +32,7 @@ La première édition de 2002/3 s’est tenue pendant l’élaboration d’une p
 
 La deuxième édition de 2014 a eu lieu d’après l’ESS a un moment opportun après une décennie de changements culturels, politiques, sociaux, économiques et démographiques. La récession économique de 2008, la montée de l'extrême droite populiste et les flux de migrations vers l’Europe ainsi que des attaques terroristes à Londres et à Madrid ont modifié les perceptions des européens à l’aube d’une crise migratoire importante en Europe. Une meilleure connaissance des opinions s’est révélée être nécessaire à ce moment clé.  
 
-#### Bilan 
+* Bilan 
 
 La création de The European Social Survey constitue un véritable tournant dans les enquêtes académiques du monde des sciences sociales de part l’exigence et ambition méthodologique. Les 11 éditions de l’ESS y sont très riches : les universitaires, les institutions politiques et la presse s’en sont saisies pour réaliser des rapports et des articles académiques dans toute l'Union Européenne. Plusieurs conférences ont également été organisées après les différentes éditions pour diffuser les résultats. Une des dernières en date est celle à l’Université de Mannheim en avril 2019 intitulée “Turbulent times in Europe: Instability, insecurity and inequality”.
 
