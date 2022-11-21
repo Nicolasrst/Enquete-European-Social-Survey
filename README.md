@@ -200,7 +200,7 @@ Comme vous avez désormais pu le comprendre l'ESS est une enquête à la concept
 
 ## 10. Bibliographie
 
-Articles académiques 
+* Articles académiques 
 
 Kolsrud, K., & Skjak, K. K. (2005). Harmonising background variables in the European Social Survey. Hoffmeyer-Zlotnik, & J. Harkness (Eds.), Methodological aspects in cross-national research (pp. 163-182). Mannheim: GESIS-ZUMA. 
 https://nbn-resolving.org/urn:nbn:de:0168-ssoar-49157-2
@@ -222,7 +222,7 @@ https://doi.org/10.1007/s11205-015-1002-x
 
 Menold, N., Schaible, J., Stathopoulou, T. And Zuell, C. (2018) Development of a methodology to measure media context in the European Social Survey, London: publisher- European Social Survey ERIC. https://www.europeansocialsurvey.org/docs/methodology/measuring_media_context_in_ESS.pdf
 
-Entretiens 
+* Entretiens 
 
 Interview Nicolas Sauger 
 Professeur des universités à Sciences Po, en science politique. Directeur du Centre de Données Socio-Politiques (CDSP) depuis 2017. Spécialiste de méthodes quantitatives. Participation à de nombreuses enquêtes : Enquête sociale européenne, le Comparative study of electoral systems. Publication dans de nombreuses revues internationales (BJPS, Electoral Studies, EJPR, JEPP, Party politics, PRQ, SCW,...)
@@ -234,13 +234,13 @@ Interview Maxime Parodi
 Sociologue. Spécialiste de la justice sociale et des inégalités notamment liées à l’immigration. 
 
 
-Rapports 
+* Rapports 
 
 Chapter 1 European Social Survey Core Questionnaire Development Overview, https://www.europeansocialsurvey.org/docs/methodology/core_ess_questionnaire/ESS_core_questionnaire_overview.pdf
 
 Brochure. Consortium pour l'infrastructure de recherche de l'enquête sociale européenne https://www.europeansocialsurvey.org/docs/about/ESS_Prospectus_French.pdf
 
-Sites web 
+* Sites web 
 
 https://www.cnis.fr/enquetes/enquete-sociale-europeenne-european-social-survey-ess/
 
