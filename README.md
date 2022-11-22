@@ -205,8 +205,7 @@ Comme vous avez désormais pu le comprendre l'ESS est une enquête à la concept
 
 * Articles académiques 
 
-Kolsrud, K., & Skjak, K. K. (2005). Harmonising background variables in the European Social Survey. Hoffmeyer-Zlotnik, & J. Harkness (Eds.), Methodological aspects in cross-national research (pp. 163-182). Mannheim: GESIS-ZUMA. 
-https://nbn-resolving.org/urn:nbn:de:0168-ssoar-49157-2
+Dorer, B. (2022). Advance Translation—The Remedy to Improve Translatability of Source Questionnaires? Results of a Think-Aloud Study. Field Methods, 0(0). https://doi.org/10.1177/1525822X211072343
 
 Fitzgerald, R., Jowell, R. (2011). Measurement equivalence in comparative surveys: the European Social Survey (ESS) – from design to implementation and beyond, Centre for Comparative Social Surveys, Working Paper Series, Paper no. 03 
 
@@ -216,14 +215,17 @@ https://openaccess.city.ac.uk/id/eprint/14487/
 Fitzgerald, R. (2015). Sailing in unchartered waters: structuring and documenting cross-national questionnaire design. (GESIS Papers, 2015/05). Köln: GESIS - Leibniz-Institut für Sozialwissenschaften. 
 https://doi.org/10.21241/ ssoar.4621 
 
-Dorer, B. (2022). Advance Translation—The Remedy to Improve Translatability of Source Questionnaires? Results of a Think-Aloud Study. Field Methods, 0(0). https://doi.org/10.1177/1525822X211072343
+Kolsrud, K., & Skjak, K. K. (2005). Harmonising background variables in the European Social Survey. Hoffmeyer-Zlotnik, & J. Harkness (Eds.), Methodological aspects in cross-national research (pp. 163-182). Mannheim: GESIS-ZUMA. 
+https://nbn-resolving.org/urn:nbn:de:0168-ssoar-49157-2
+
+Kubinger, K.D. (2003). Gütekriterien. In K.D. Kubinger & R.S. Jäger (Hrsg.). Schlüsselbegriffe der Psychologischen Diag[1]nostik. (S. 195-204). Weinheim: Beltz PVU.
 
 Loosveldt, G., Katrijn Denies, K., Vandenplas, C. (...). Quality matrix for the European Social Survey, round 7. Centre for Sociological Research, KU Leuven, https://www.europeansocialsurvey.org/docs/round7/methods/ESS7_quality_matrix.pdf
 
+Menold, N., Schaible, J., Stathopoulou, T. And Zuell, C. (2018) Development of a methodology to measure media context in the European Social Survey, London: publisher- European Social Survey ERIC. https://www.europeansocialsurvey.org/docs/methodology/measuring_media_context_in_ESS.pdf
+
 Saris, W.E., Revilla, M. (2016). Correction for Measurement Errors in Survey Research: Necessary and Possible. Soc Indic Res 127, 1005–1020. 
 https://doi.org/10.1007/s11205-015-1002-x 
-
-Menold, N., Schaible, J., Stathopoulou, T. And Zuell, C. (2018) Development of a methodology to measure media context in the European Social Survey, London: publisher- European Social Survey ERIC. https://www.europeansocialsurvey.org/docs/methodology/measuring_media_context_in_ESS.pdf
 
 * Entretiens 
 
@@ -270,4 +272,5 @@ https://www.europeansocialsurvey.org/docs/findings/ESS7_toplines_issue_7_immigra
 
 https://www.europeansocialsurvey.org/docs/round7/questionnaire/ESS7_heath_proposal.pdf 
 
+https://www.europeansocialsurvey.org/docs/methodology/data_falsification_ESS.pdf
 
