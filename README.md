@@ -1,7 +1,7 @@
 # Enquete-European-Social-Survey
 
 ### Enquête finale : La vie sociale des données 
-#### Nicolas Rousset, Louise Favennec, Nina Cardot, Mohamed Checkoua, Djibril Sagot 
+#### Nicolas Rousset, Louise Favennec, Nina Cardot, Mohamed Chekoua, Djibril Sagot 
 
 ## Introduction 
 Dans cette enquête pour le cours de "Vie sociale des données", nous avons fait le choix de nous pencher sur "L’Enquête sociale européenne" (European Social Survey) ayant entendu parler à maintes reprises de ses qualités. Nous avons voulu en avoir le coeur net et nous sommes donc penchés sur les différents élements de cette base de données pour tâcher de décrypter son fonctionnement, à la fois complet et complexe mais aussi pour tâcher de soulerver des critiques quant à son fonctionnement. Ce rendu prend donc la forme d'une enquête structurée en 8 parties : son histoire, son organisation interne, la conception de ses questionnaires, les modalités de traduction et de recueil des données, ses usages et son ontologie sous-jacente, plus particulièrement dans le cadre du module rotatif de 2014 consacré à l'immigration et enfin ses limites. 
